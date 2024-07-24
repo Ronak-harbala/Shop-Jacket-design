@@ -85,7 +85,7 @@ nav{
     align-items: center;
     justify-content: end;
     gap: 20px;
-    padding : 7px 12px;
+    padding :  12px;
 }
 
 nav h4{
@@ -116,7 +116,7 @@ section{
 }
 
 .left p{
-    font-size: 3vw;
+    font-size: 3.8vw;
 }
 
 .right{
@@ -128,7 +128,7 @@ section{
 
 .right h3{
   border-top : 2px solid black;
-  font-size: 3vw;
+  font-size: 3.8vw;
 }
 
 .photo{
